@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+<!--
 ![header](https://capsule-render.vercel.app/api?type=slice&color=777cc5&height=300&section=header&text=HyeokTaeChoi&fontSize=90)
 
 
@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+-->
 
 
