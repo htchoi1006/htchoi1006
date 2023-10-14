@@ -25,7 +25,7 @@ And I'm majoring in CS at <a href="https://cs.kookmin.ac.kr/">Kookmin University
 
 
 <br><br>
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=htchoi1006)](https://solved.ac/htchoi1006/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=htchoi1006)](https://solved.ac/htchoi1006/)
 
 
 
