@@ -11,11 +11,11 @@
 
 
 Hi there! I'm HyukTae 👋 <br/>
-I'm Web Front-End developer. <br/>
-And I'm majoring in CS at Kookmin University, Seoul, South Korea. 🇰🇷<br/>
+I'm Web Front-End engineer. <br/>
 I prefer to use React and Typescript.<br/>
 <br/>
-I enjoy listening to music 😌🎧
+I love music 😌🎧 <br/>
+
 
 
 
