@@ -6,7 +6,7 @@
 &nbsp 
 <a href="https://www.linkedin.com/in/choiht/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/choiht/"/></a>
 &nbsp 
-<a href="mailto:htchoi1006@kookmin.ac.kr"><img src="https://img.shields.io/badge/htchoi1006@kookmin.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white&link=htchoi1006@kookmin.ac.kr"/></a>  </p>
+<a href="mailto:hyuktae.choi@gmail.com"><img src="https://img.shields.io/badge/hyuktae.choi@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyuktae.choi@gmail.com"/></a>  </p>
 
 
 
