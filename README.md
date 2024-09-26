@@ -10,7 +10,7 @@
 
 
 
-Hi there! I'm HyukTae 👋 <br/>
+Hi! I'm HyukTae 👋 <br/>
 I'm Web Front-End engineer. <br/>
 I prefer to use React and Typescript.<br/>
 <br/>
